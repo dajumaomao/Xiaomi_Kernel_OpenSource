@@ -1,1 +1,1 @@
-../../../../../kernel/msm-4.14/drivers/pinctrl/pinctrl-utils.h
+/home/ubuntu/micode/crux-p-oss/drivers/pinctrl/pinctrl-utils.h
